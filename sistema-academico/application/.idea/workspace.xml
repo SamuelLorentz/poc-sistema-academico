@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43a62164-b067-43f3-b5d3-6198ed0ef376" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/poc/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/poc/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/poc/config/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/poc/controller/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controller/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../controller/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../domain/domain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../domain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../domain/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-academico.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usecase/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../usecase/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usecase/src/main/java/br/com/poc/repository/DisciplinaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../usecase/src/main/java/br/com/poc/repository/DisciplinaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usecase/src/main/java/br/com/poc/usecases/CancelarMatriculaAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/../usecase/src/main/java/br/com/poc/usecases/CancelarMatriculaAluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usecase/src/main/java/br/com/poc/usecases/MatricularAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/../usecase/src/main/java/br/com/poc/usecases/MatricularAluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usecase/src/test/java/br/com/poc/usecases/MatricularAlunoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../usecase/src/test/java/br/com/poc/usecases/MatricularAlunoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usecase/target/classes/META-INF/usecase.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usecase/target/classes/br/com/poc/repository/DisciplinaRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../usecase/target/classes/br/com/poc/repository/DisciplinaRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usecase/target/classes/br/com/poc/usecases/CancelarMatriculaAluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/../usecase/target/classes/br/com/poc/usecases/CancelarMatriculaAluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usecase/target/classes/br/com/poc/usecases/MatricularAluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/../usecase/target/classes/br/com/poc/usecases/MatricularAluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usecase/target/test-classes/br/com/poc/usecases/MatricularAlunoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../usecase/target/test-classes/br/com/poc/usecases/MatricularAlunoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usecase/usecase.iml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1RJ6joq0whgsOFrJOkm78PW4EUa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43a62164-b067-43f3-b5d3-6198ed0ef376" name="Default Changelist" comment="" />
+      <created>1569372991023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569372991023</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
