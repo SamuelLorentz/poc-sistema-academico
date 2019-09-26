@@ -10,18 +10,35 @@ public class Disciplina {
     private int quantidadeAlunosMatriculados;
     private List<Aluno> alunosMatriculados = new ArrayList<>();
 
+    private static final String EFETIVACAO_MATRICULA = "O Aluno %s efetiva a matrícula na disciplina %s";
+    private static final String CANCELAR_MATRICULA = "O Aluno %s cancelou a matrícula na disciplina %s";
+
     public Disciplina(String nome, int quantidadeVagas, int quantidadeAlunosMatriculados) {
         this.nome = nome;
         this.quantidadeVagas = quantidadeVagas;
         this.quantidadeAlunosMatriculados = quantidadeAlunosMatriculados;
     }
 
-    public void adicionarAlunoDisciplina(Aluno aluno){
-        if (this.quantidadeVagas > this.quantidadeAlunosMatriculados) {
-            this.alunosMatriculados.add(aluno);
-            this.quantidadeVagas = this.quantidadeVagas--;
-            this.quantidadeAlunosMatriculados = this.quantidadeAlunosMatriculados++;
+    public Disciplina adicionarAlunoDisciplina(Disciplina disciplina, Aluno aluno){
+        if (disciplina.quantidadeVagas > disciplina.quantidadeAlunosMatriculados) {
+            disciplina.alunosMatriculados.add(aluno);
+            disciplina.setQuantidadeVagas(disciplina.getQuantidadeVagas() - 1);
+            disciplina.setQuantidadeAlunosMatriculados(disciplina.getQuantidadeAlunosMatriculados() + 1);
+
+            System.out.println(String.format(EFETIVACAO_MATRICULA, aluno.getNome(), disciplina.getNome()));
         }
+
+        return disciplina;
+    }
+
+    public Disciplina removerAlunoDisciplina(Disciplina disciplina, Aluno aluno){
+        disciplina.getAlunosMatriculados().remove(aluno);
+        disciplina.setQuantidadeVagas(disciplina.getQuantidadeVagas() + 1);
+        disciplina.setQuantidadeAlunosMatriculados(disciplina.getQuantidadeAlunosMatriculados() - 1);
+
+        System.out.println(String.format(CANCELAR_MATRICULA, aluno.getNome(), disciplina.getNome()));
+
+        return disciplina;
     }
 
     public static DisciplinaBuilder builder() {

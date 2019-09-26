@@ -19,7 +19,7 @@ public final class CancelarMatriculaAluno {
             throw new AlunoDoesNotExistsException(aluno.getNome());
         }
 
-        disciplina.getAlunosMatriculados().remove(aluno);
+        disciplina = disciplina.removerAlunoDisciplina(disciplina, aluno);
 
         return repository.save(disciplina);
     }

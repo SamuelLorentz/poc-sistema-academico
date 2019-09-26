@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81fbfbb3-3545-48cd-b52d-11c64797f893" name="Default Changelist" comment="" />
+    <list default="true" id="b613303b-4e7c-427a-94d3-4ef0897f14b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/usecase/src/test/java/br/com/poc/usecases/CancelarMatriculaAlunoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/application.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/domain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/java/entity/Disciplina.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/main/java/entity/Disciplina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistema-academico.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usecase/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/usecase/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usecase/src/main/java/br/com/poc/usecases/CancelarMatriculaAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/usecase/src/main/java/br/com/poc/usecases/CancelarMatriculaAluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usecase/src/main/java/br/com/poc/usecases/MatricularAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/usecase/src/main/java/br/com/poc/usecases/MatricularAluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usecase/src/test/java/br/com/poc/usecases/MatricularAlunoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/usecase/src/test/java/br/com/poc/usecases/MatricularAlunoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usecase/usecase.iml" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="Interface" />
-        <option value="JUnit5 Test Class" />
-        <option value="JUnit4 Test Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -28,40 +33,18 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1R9v2Yr9Flr2vxfF5nMccBBoHeN" />
+  <component name="ProjectId" id="1RLugCAP7UFU8aR0xXzpGHGwC9E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/domain/src/main/java" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.12515645" />
-    <property name="project.structure.side.proportion" value="0.3490701" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="br.com.poc.usecases" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="br.com.poc.repository" />
-      <recent name="br.com.poc.exceptions" />
-      <recent name="br.com.poc.usecases" />
-      <recent name="br.com.poc" />
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Samue\Downloads\poc-sistema-academico-master\poc-sistema-academico-master\sistema-academico\domain\src\main\java" />
-      <recent name="C:\Users\Samue\Downloads\poc-sistema-academico-master\poc-sistema-academico-master\sistema-academico\src\main\java" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Samue\Downloads\poc-sistema-academico-master\poc-sistema-academico\sistema-academico\usecase\src\main\java\br\com\poc\usecases" />
+      <recent name="C:\Users\Samue\Downloads\poc-sistema-academico-master\poc-sistema-academico\sistema-academico\domain\src\main\java\entity" />
+      <recent name="C:\Users\Samue\Downloads\poc-sistema-academico-master\poc-sistema-academico\sistema-academico\usecase\src\test\java\br\com\poc\usecases" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -76,10 +59,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Application">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Application" />
-      <module name="application" />
+  <component name="RunManager" selected="JUnit.All in usecase">
+    <configuration name="All in usecase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="usecase" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,35 +83,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatricularAlunoTest.matricularAluno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="usecase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.poc.usecases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="br.com.poc.usecases" />
-      <option name="MAIN_CLASS_NAME" value="br.com.poc.usecases.MatricularAlunoTest" />
-      <option name="METHOD_NAME" value="matricularAluno" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Unnamed" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="application" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="Application" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.All in usecase" />
         <item itemvalue="JUnit.MatricularAlunoTest" />
-        <item itemvalue="JUnit.MatricularAlunoTest.matricularAluno" />
       </list>
     </recent_temporary>
   </component>
@@ -136,35 +95,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="81fbfbb3-3545-48cd-b52d-11c64797f893" name="Default Changelist" comment="" />
-      <created>1569091919898</created>
+      <changelist id="b613303b-4e7c-427a-94d3-4ef0897f14b2" name="Default Changelist" comment="" />
+      <created>1569458805816</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569091919898</updated>
-      <workItem from="1569091924850" duration="6462000" />
-      <workItem from="1569151148923" duration="4012000" />
-      <workItem from="1569155542818" duration="6160000" />
-      <workItem from="1569179953606" duration="1625000" />
+      <updated>1569458805816</updated>
+      <workItem from="1569458808565" duration="379000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/usecase/src/main/java/br/com/poc/usecases/MatricularAluno.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/domain/src/main/java/entity/Disciplina.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

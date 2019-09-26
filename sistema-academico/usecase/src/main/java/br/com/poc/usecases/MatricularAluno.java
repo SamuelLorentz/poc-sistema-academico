@@ -19,8 +19,6 @@ public final class MatricularAluno {
             throw new AlunoAlreadyExistsException(aluno.getNome());
         }
 
-        disciplina.adicionarAlunoDisciplina(aluno);
-
-        return repository.save(disciplina);
+        return repository.save(disciplina.adicionarAlunoDisciplina(disciplina, aluno));
     }
 }
